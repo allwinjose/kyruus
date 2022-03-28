@@ -710,7 +710,7 @@ button.dropbtn::after {
   }
   
   .copy-text {
-    flex-basis: 40%;
+    flex-basis: 30%;
     padding-left: 60px;
     color: #fff;
     font-family: proxima-nova, sans-serif;

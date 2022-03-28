@@ -888,3 +888,17 @@ z-index: 0;
 {
   pointer-events: none;
 }
+@media only screen and (max-width: 1172px) {
+  .foot-copy {
+    flex-direction:column;
+  }
+  .foot-pri
+  {
+    width:100%;
+  }
+  .copy-text
+  {
+    width:100%;
+    text-align: center;;
+  }
+}
